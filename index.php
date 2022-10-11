@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,7 +27,7 @@
   <div class="container bg-dark p-4 col-4 text-center text-light mt-5">
     <main class="form-signin ">
       <form action="./first-login-transfer.php" method="post">
-        <h1 class="h3 mb-3 fw-normal">ADMIN/USER LOGIN</h1>
+        <h1 class="h3 mb-3 fw-normal">ADMIN</h1>
 
         <div class="form-floating p-2">
           <input type="email" class="form-control" name="username" id="floatingInput" placeholder="name@example.com">
